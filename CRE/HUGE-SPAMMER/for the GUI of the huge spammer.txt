@@ -1,0 +1,27 @@
+GUI:
+    MSN FREEZER:
+        email
+        thread
+    PASTEBIN SPAM:
+        user
+        thread
+    PHONE:
+        change phone in gmail:
+            list of email
+            country
+            number
+            nb thread
+        spam a phone with gmail:
+            country
+            number
+            list of email
+            captcha trader or not
+    SMS BOMBER:
+        country
+        number
+        msg
+        number of time
+        time space between spam
+    email spammer:
+        email
+        nb threads

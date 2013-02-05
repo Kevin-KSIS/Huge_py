@@ -1,0 +1,230 @@
+
+http://www.google.com/recaptcha/api/challenge?k=6LcZlM8SAAAAAPP3gQ2b9Zos1Vw7dhb3SA4fL9Ad
+
+GET /recaptcha/api/challenge?k=6LcZlM8SAAAAAPP3gQ2b9Zos1Vw7dhb3SA4fL9Ad HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5
+Accept: */*
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.planetminecraft.com/server/125-247-16gb-twistedpvp-400-slots-factions-mcmmo-shops-allowed-greifing-nolag-695112/vote/
+Cookie: PREF=ID=024e30d75a1a22fd:U=9a90587752dbff87:FF=0:TM=1337606325:LM=1337745185:S=ip5SYjdT8F7Hvun9; NID=60=XfVl01w39GvqTB7OoWfVuEouAQykhc_MvfY99v1pLtUudnBA_8ZzRe31b0onnKd--E3ZOhv_uBBqYaLzKyvBuWsIUZ8RCmKOM6kjLNjzgpJ-9FQxdKOGOW4cI7Un4GWC
+Cache-Control: max-age=0
+
+HTTP/1.0 200 OK
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Date: Wed, 23 May 2012 14:26:34 GMT
+Content-Type: text/javascript
+Content-Encoding: gzip
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Content-Length: 436
+Server: GSE
+X-Cache: MISS from smartcache3
+X-Cache-Lookup: MISS from smartcache3:8080
+Connection: close
+X-Antivirus: avast! 4
+X-Antivirus-Status: Clean
+----------------------------------------------------------
+http://www.google.com/recaptcha/api/js/recaptcha.js
+
+GET /recaptcha/api/js/recaptcha.js HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5
+Accept: */*
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.planetminecraft.com/server/125-247-16gb-twistedpvp-400-slots-factions-mcmmo-shops-allowed-greifing-nolag-695112/vote/
+Cookie: PREF=ID=024e30d75a1a22fd:U=9a90587752dbff87:FF=0:TM=1337606325:LM=1337745185:S=ip5SYjdT8F7Hvun9; NID=60=XfVl01w39GvqTB7OoWfVuEouAQykhc_MvfY99v1pLtUudnBA_8ZzRe31b0onnKd--E3ZOhv_uBBqYaLzKyvBuWsIUZ8RCmKOM6kjLNjzgpJ-9FQxdKOGOW4cI7Un4GWC
+If-Modified-Since: Mon, 23 Apr 2012 15:25:08 GMT
+Cache-Control: max-age=0
+
+HTTP/1.0 304 Not Modified
+Date: Mon, 21 May 2012 15:17:37 GMT
+Content-Type: application/x-javascript
+Expires: Mon, 21 May 2012 15:17:37 GMT
+Last-Modified: Mon, 23 Apr 2012 15:25:08 GMT
+Age: 169738
+X-Cache: HIT from smartcache3
+X-Cache-Lookup: HIT from smartcache3:8080
+Connection: close
+----------------------------------------------------------
+http://www.google.com/recaptcha/api/img/red/refresh.gif
+
+GET /recaptcha/api/img/red/refresh.gif HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.planetminecraft.com/server/125-247-16gb-twistedpvp-400-slots-factions-mcmmo-shops-allowed-greifing-nolag-695112/vote/
+Cookie: PREF=ID=024e30d75a1a22fd:U=9a90587752dbff87:FF=0:TM=1337606325:LM=1337745185:S=ip5SYjdT8F7Hvun9; NID=60=XfVl01w39GvqTB7OoWfVuEouAQykhc_MvfY99v1pLtUudnBA_8ZzRe31b0onnKd--E3ZOhv_uBBqYaLzKyvBuWsIUZ8RCmKOM6kjLNjzgpJ-9FQxdKOGOW4cI7Un4GWC
+If-Modified-Since: Wed, 16 May 2012 22:25:56 GMT
+Cache-Control: max-age=0
+
+HTTP/1.0 304 Not Modified
+Date: Mon, 21 May 2012 14:59:05 GMT
+Content-Type: image/gif
+Expires: Mon, 21 May 2012 15:59:05 GMT
+Last-Modified: Wed, 16 May 2012 22:25:56 GMT
+Age: 170849
+X-Cache: HIT from smartcache3
+X-Cache-Lookup: HIT from smartcache3:8080
+Connection: close
+----------------------------------------------------------
+http://www.google.com/recaptcha/api/img/red/audio.gif
+
+GET /recaptcha/api/img/red/audio.gif HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.planetminecraft.com/server/125-247-16gb-twistedpvp-400-slots-factions-mcmmo-shops-allowed-greifing-nolag-695112/vote/
+Cookie: PREF=ID=024e30d75a1a22fd:U=9a90587752dbff87:FF=0:TM=1337606325:LM=1337745185:S=ip5SYjdT8F7Hvun9; NID=60=XfVl01w39GvqTB7OoWfVuEouAQykhc_MvfY99v1pLtUudnBA_8ZzRe31b0onnKd--E3ZOhv_uBBqYaLzKyvBuWsIUZ8RCmKOM6kjLNjzgpJ-9FQxdKOGOW4cI7Un4GWC
+If-Modified-Since: Wed, 16 May 2012 22:25:56 GMT
+Cache-Control: max-age=0
+
+HTTP/1.0 304 Not Modified
+Date: Mon, 21 May 2012 15:00:26 GMT
+Content-Type: image/gif
+Expires: Mon, 21 May 2012 16:00:26 GMT
+Last-Modified: Wed, 16 May 2012 22:25:56 GMT
+Age: 170768
+X-Cache: HIT from smartcache3
+X-Cache-Lookup: HIT from smartcache3:8080
+Connection: close
+----------------------------------------------------------
+http://www.google.com/recaptcha/api/img/red/help.gif
+
+GET /recaptcha/api/img/red/help.gif HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.planetminecraft.com/server/125-247-16gb-twistedpvp-400-slots-factions-mcmmo-shops-allowed-greifing-nolag-695112/vote/
+Cookie: PREF=ID=024e30d75a1a22fd:U=9a90587752dbff87:FF=0:TM=1337606325:LM=1337745185:S=ip5SYjdT8F7Hvun9; NID=60=XfVl01w39GvqTB7OoWfVuEouAQykhc_MvfY99v1pLtUudnBA_8ZzRe31b0onnKd--E3ZOhv_uBBqYaLzKyvBuWsIUZ8RCmKOM6kjLNjzgpJ-9FQxdKOGOW4cI7Un4GWC
+If-Modified-Since: Wed, 16 May 2012 22:25:56 GMT
+Cache-Control: max-age=0
+
+HTTP/1.0 304 Not Modified
+Date: Mon, 21 May 2012 15:01:00 GMT
+Content-Type: image/gif
+Expires: Mon, 21 May 2012 16:01:00 GMT
+Last-Modified: Wed, 16 May 2012 22:25:56 GMT
+Age: 170734
+X-Cache: HIT from smartcache3
+X-Cache-Lookup: HIT from smartcache3:8080
+Connection: close
+----------------------------------------------------------
+
+----------------------------------------------------------
+http://www.google.com/recaptcha/api/image?c=03AHJ_VutMSlB_TWXTGECQl2oNdeb5MQWdLqDo450A-VI3E2apejrjph7jeNGRVQdvyNCifHWPnxz6coZYGn0TqFbOnORAW54ECqKhvJuBde93JrLZDTjny6WN0LHtnBUOfSGELDNW9Pg2lFOZ9jgFtneZqFpLkRk7-w
+
+GET /recaptcha/api/image?c=03AHJ_VutMSlB_TWXTGECQl2oNdeb5MQWdLqDo450A-VI3E2apejrjph7jeNGRVQdvyNCifHWPnxz6coZYGn0TqFbOnORAW54ECqKhvJuBde93JrLZDTjny6WN0LHtnBUOfSGELDNW9Pg2lFOZ9jgFtneZqFpLkRk7-w HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.planetminecraft.com/server/125-247-16gb-twistedpvp-400-slots-factions-mcmmo-shops-allowed-greifing-nolag-695112/vote/
+Cookie: PREF=ID=024e30d75a1a22fd:U=9a90587752dbff87:FF=0:TM=1337606325:LM=1337745185:S=ip5SYjdT8F7Hvun9; NID=60=XfVl01w39GvqTB7OoWfVuEouAQykhc_MvfY99v1pLtUudnBA_8ZzRe31b0onnKd--E3ZOhv_uBBqYaLzKyvBuWsIUZ8RCmKOM6kjLNjzgpJ-9FQxdKOGOW4cI7Un4GWC
+
+HTTP/1.0 200 OK
+Expires: Wed, 23 May 2012 14:36:38 GMT
+Date: Wed, 23 May 2012 14:26:38 GMT
+Cache-Control: public, max-age=600
+Content-Type: image/jpeg
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Content-Length: 3705
+Server: GSE
+X-Cache: MISS from smartcache3
+X-Cache-Lookup: MISS from smartcache3:8080
+Connection: close
+
+----------------------------------------------------------
+http://www.planetminecraft.com/server/125-247-16gb-twistedpvp-400-slots-factions-mcmmo-shops-allowed-greifing-nolag-695112/vote/
+
+POST /server/125-247-16gb-twistedpvp-400-slots-factions-mcmmo-shops-allowed-greifing-nolag-695112/vote/ HTTP/1.1
+Host: www.planetminecraft.com
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.planetminecraft.com/server/125-247-16gb-twistedpvp-400-slots-factions-mcmmo-shops-allowed-greifing-nolag-695112/vote/
+Cookie: __utma=227139932.1809927276.1337744556.1337744556.1337782797.2; __utmz=227139932.1337782797.2.2.utmcsr=hackforums.net|utmccn=(referral)|utmcmd=referral|utmcct=/private.php; __atuvc=2|21; phpbb3_ivumq_u=1; phpbb3_ivumq_k=; phpbb3_ivumq_sid=f76077ed9d3b9691e7369a3f08259278; style_cookie=null; __utmb=227139932.6.10.1337782797; PHPSESSID=13cf5901a98bff5ecab3c799ffd356fb; __utmc=227139932
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 244
+recaptcha_challenge_field=03AHJ_VutMSlB_TWXTGECQl2oNdeb5MQWdLqDo450A-VI3E2apejrjph7jeNGRVQdvyNCifHWPnxz6coZYGn0TqFbOnORAW54ECqKhvJuBde93JrLZDTjny6WN0LHtnBUOfSGELDNW9Pg2lFOZ9jgFtneZqFpLkRk7-w&recaptcha_response_field=lana+passenoer&mcname=xxaaxx
+HTTP/1.0 200 OK
+Date: Wed, 23 May 2012 14:27:00 GMT
+Server: Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.8e-fips-rhel5 mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 PHP/5.2.9
+X-Powered-By: PHP/5.2.9
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: private, no-cache, no-store, proxy-revalidate, no-transform
+Pragma: no-cache
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 5103
+Content-Type: text/html
+X-Cache: MISS from smartcache3
+X-Cache-Lookup: MISS from smartcache3:8080
+Connection: close
+----------------------------------------------------------
+http://www.google.com/recaptcha/api/challenge?k=6LcZlM8SAAAAAPP3gQ2b9Zos1Vw7dhb3SA4fL9Ad&error=incorrect-captcha-sol
+
+GET /recaptcha/api/challenge?k=6LcZlM8SAAAAAPP3gQ2b9Zos1Vw7dhb3SA4fL9Ad&error=incorrect-captcha-sol HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5
+Accept: */*
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.planetminecraft.com/server/125-247-16gb-twistedpvp-400-slots-factions-mcmmo-shops-allowed-greifing-nolag-695112/vote/
+Cookie: PREF=ID=024e30d75a1a22fd:U=9a90587752dbff87:FF=0:TM=1337606325:LM=1337745185:S=ip5SYjdT8F7Hvun9; NID=60=XfVl01w39GvqTB7OoWfVuEouAQykhc_MvfY99v1pLtUudnBA_8ZzRe31b0onnKd--E3ZOhv_uBBqYaLzKyvBuWsIUZ8RCmKOM6kjLNjzgpJ-9FQxdKOGOW4cI7Un4GWC
+
+HTTP/1.0 200 OK
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Date: Wed, 23 May 2012 14:27:01 GMT
+Content-Type: text/javascript
+Content-Encoding: gzip
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Content-Length: 440
+Server: GSE
+X-Cache: MISS from smartcache3
+X-Cache-Lookup: MISS from smartcache3:8080
+Connection: close
+X-Antivirus: avast! 4
+X-Antivirus-Status: Clean
+----------------------------------------------------------
+
